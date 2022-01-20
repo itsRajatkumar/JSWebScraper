@@ -5,7 +5,7 @@ This project is made for automatic web scraping to make scraping easy. It gets a
 
 ## Installation
 
-It's compatible with NodeJS v16.
+It's compatible with NodeJS.
 
 Install latest version from git repository using NPM:
 ```bash
